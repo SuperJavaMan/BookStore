@@ -10,6 +10,6 @@ import javax.persistence.Entity;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-public class Mersedes extends Vehicle{
+public class Mersedes extends Vehicle {
     private String model;
 }
